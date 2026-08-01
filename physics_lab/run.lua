@@ -65,6 +65,8 @@ local PARITY = {
 	"parity/06_turn.lua",
 	"parity/07_mass.lua",
 	"parity/08_pointing.lua",
+	"parity/09_airship.lua",
+	"parity/10_assembly.lua",
 }
 
 --------------------------------------------------------------------------------

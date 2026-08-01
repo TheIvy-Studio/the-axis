@@ -120,6 +120,7 @@ return experiment.define {
 			"api/inertia.lua",
 			"api/drag.lua",
 			"api/lift.lua",
+			"api/envelope.lua",
 			"api/pointing.lua",
 			"api/mass.lua",
 			"api/structure.lua",

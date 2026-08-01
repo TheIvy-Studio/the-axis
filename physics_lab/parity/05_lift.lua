@@ -75,7 +75,8 @@ return experiment.define {
 
 		local loaded, reason = mod.load({
 			"api/registry.lua", "api/smoothing.lua", "api/inertia.lua",
-			"api/drag.lua", "api/lift.lua", "api/pointing.lua", "api/mass.lua",
+			"api/drag.lua", "api/lift.lua",
+			"api/envelope.lua", "api/pointing.lua", "api/mass.lua",
 			"api/structure.lua", "behaviours/air.lua",
 		}, {
 			rotate = function(offset, yaw)

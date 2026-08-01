@@ -128,6 +128,7 @@ c — производная момента по угловой скорости
 			"api/inertia.lua",
 			"api/drag.lua",
 			"api/lift.lua",
+			"api/envelope.lua",
 			"api/mass.lua",
 			"api/structure.lua",
 			"behaviours/air.lua",
